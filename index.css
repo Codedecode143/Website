@@ -292,6 +292,16 @@ nav .fa-solid{
         background-image: url(Web_Photo_Editor.jpg);
         width: 100%;
     }
+    .headertext h1{
+        margin-top: 150px;
+    }
+    .aboutcol1 img {
+        margin-bottom: 20px;
+    }
+    
+.Photos img{
+    width: 100%;
+}
     .remove{
         display: none;
     }
@@ -311,5 +321,7 @@ nav .fa-solid{
         margin-top: 5px;
         margin-bottom: 5px;
     }
+    .contactright {
+        width: 94%;
+    }
 }
-
